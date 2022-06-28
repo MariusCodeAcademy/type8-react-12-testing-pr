@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="JCBADD1I3ttC53KaK-D5" name="Page-1">
+        <mxGraphModel dx="1370" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="20" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="150" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Minus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="150" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Reset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="190" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="90" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Reps counter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="40" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="HideLabel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="190" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;lt;Counter counterName='Reps counter' initValue=0 /&amp;gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="20" width="260" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
